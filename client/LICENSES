@@ -1,5 +1,5 @@
 /*!
-  * vue-router v3.4.7
+  * vue-router v3.4.9
   * (c) 2020 Evan You
   * @license MIT
   */
@@ -40,6 +40,8 @@
  * (c) 2020 Evan You
  * @license MIT
  */
+
+/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
 /*! medium-zoom 1.0.6 | MIT License | https://github.com/francoischalifour/medium-zoom */
 
